@@ -20,11 +20,11 @@ export default function Nav() {
         <nav className="flex justify-between lg:justify-start space-x-10 p-4 items-center">
             <img src="images/logo.svg" className="mr-10" />
             <img src="images/icon-menu.svg" className="lg:hidden" onClick={showMenu}/>
-            <div class="relative hidden lg:block">
+            <div className="relative hidden lg:block">
                 <Navlink name="Features"  menu={featuresSub} isDrop dropHeight='h-48'/>
             </div>
 
-            <div class="relative hidden lg:block">
+            <div className="relative hidden lg:block">
                 <Navlink name="Company" menu={companySub} isDrop dropHeight='h-36' />
             </div>
            

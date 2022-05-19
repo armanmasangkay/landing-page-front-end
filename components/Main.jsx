@@ -13,7 +13,7 @@ export default function Main() {
                 <button className="bg-a-black px-4 py-3 text-a-white rounded-xl m-auto lg:m-0 block font-bold xl:text-xl xl:mt-10 hover:border hover:border-a-black hover:bg-white hover:text-a-black">
                     Learn more
                 </button>
-                <div class="mt-12">
+                <div className="mt-12">
                 <Clients/>
                 </div>
             </div>
