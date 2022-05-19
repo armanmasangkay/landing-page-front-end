@@ -6,3 +6,7 @@ Technologies used
 - TailwindCSS
 - PNPM
 
+
+[Link for live preview](https://landing.vercel.app)
+
+
